@@ -9,5 +9,6 @@ Repository containing all the projects of 100 Days of Python course on Udemy, ma
 4. Random module and lists
 5. For loops, range and len functions
 6. While loops and function declaration
-7. String maniputation and flow charts (from video)
+7. String manipulation and flow charts (from video)
 8. Function parameters and arguments
+9. Dictionary usage
