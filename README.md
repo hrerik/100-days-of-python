@@ -12,3 +12,4 @@ Repository containing all the projects of 100 Days of Python course on Udemy, ma
 7. String manipulation and flow charts (from video)
 8. Function parameters and arguments
 9. Dictionary usage
+10. Function with return and docstrings
