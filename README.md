@@ -13,4 +13,3 @@ Repository containing all the projects of 100 Days of Python course on Udemy, ma
 8. Function parameters and arguments
 9. Dictionary usage
 10. Function with return and docstrings
-11. *Capstone project*: functions and dictionary
