@@ -16,3 +16,4 @@ Repository containing all the projects of 100 Days of Python course on Udemy, ma
 11. *Capstone project*: functions and dictionary
 12. Variable score (try/except bonus)
 13. Debugging tools (no project)
+14. *Project*: variable scope and dictionary
